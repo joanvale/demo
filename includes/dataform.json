@@ -2,6 +2,6 @@
   "defaultSchema": "dataform",
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
-  "defaultDatabase": "c4ds-gcp",
+  "defaultDatabase": "qwiklabs-resources.California_Heart_Hosp_Ratings",
   "defaultLocation": "US"
 }
