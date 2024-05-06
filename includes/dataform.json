@@ -2,6 +2,6 @@
   "defaultSchema": "dataform",
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
-  "defaultDatabase": "qwiklabs-gcp-00-7ed058ff11e9.heart",
+  "defaultDatabase": "c4ds-gcp",
   "defaultLocation": "US"
 }
